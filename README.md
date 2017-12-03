@@ -1,4 +1,6 @@
 # Autocad-Scripts
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W3JMUBMSWUKNY)
+
 List of the scripts, commands and lisps created or found
 
 ## LISP Files
